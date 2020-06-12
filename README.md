@@ -23,7 +23,9 @@ The application consists of an interactive game in which the user can interact w
 
     1. Clone de respository folder.
 
-    2. Unzip the repository folder with the option "Extract here" in the directory of your choice. (Unzip with the option "Extract here" will prevent the creation of a double directory that prevents the application from launching when using the runtime environment Node.js.
+    2. Unzip the repository folder with the option "Extract here" in the directory of your choice. (Unzip with the option "Extract 
+    here" will prevent the creation of a double directory that prevents the application from launching when using the 
+    runtime environment Node.js.
 
     3. Open cmd and navigate using the command cd to the directory with the repository.
     
@@ -33,3 +35,4 @@ The application consists of an interactive game in which the user can interact w
     5. Open your web browser and type the next address to see the App: http://localhost:4200
 
 
+# Author: Andrés R. Bucheli.
