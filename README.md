@@ -17,5 +17,9 @@ The App is Responsive and looks great in mobile devices such as tablets and tele
 
 The application consists of an interactive game in which the user can interact with the app and play TIC TAC TOE with other person.
 
+![picture](https://raw.githubusercontent.com/ARBUCHELI/ANGULAR-TIC-TAC-TOE-APP/master/Sin%20t%C3%ADtulo.jpg)
+
+
+
 
 
